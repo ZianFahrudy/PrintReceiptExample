@@ -11,7 +11,7 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_bloc: ^8.1.4
-  flutter_blue_plus: ^1.31.16
+  flutter_blue_plus: ^1.32.2
   flutter_localizations:
     sdk: flutter
   flutter_thermal_printer: ^0.0.7
