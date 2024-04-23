@@ -14,7 +14,7 @@ dependencies:
   flutter_blue_plus: ^1.31.16
   flutter_localizations:
     sdk: flutter
-  flutter_thermal_printer: ^0.0.7
+  flutter_thermal_printer: ^0.0.8
   intl: ^0.18.1
 
 dev_dependencies:

@@ -178,10 +178,10 @@ packages:
     dependency: "direct main"
     description:
       name: flutter_blue_plus
-      sha256: a4e2e7d536f24dfc265a4eb43b63a1293bf6d972ddd243dc3ed2d900b38d9a4d
+      sha256: "9419ca515ddcbe19a87fa2c45df97833d258c939b0e39ee2f38688a6c1fdbfde"
       url: "https://pub.dev"
     source: hosted
-    version: "1.31.16"
+    version: "1.32.4"
   flutter_localizations:
     dependency: "direct main"
     description: flutter
@@ -196,10 +196,10 @@ packages:
     dependency: "direct main"
     description:
       name: flutter_thermal_printer
-      sha256: "4782b69c0c488c5a546920068ae15014ca77e09875c4677d30d16372b944bae2"
+      sha256: addafbaeabd8352c383e57d21a3c966057e5faa095934ef5f92326ea10763c74
       url: "https://pub.dev"
     source: hosted
-    version: "0.0.7"
+    version: "0.0.8"
   frontend_server_client:
     dependency: transitive
     description:
@@ -665,10 +665,10 @@ packages:
     dependency: transitive
     description:
       name: win32
-      sha256: "8cb58b45c47dcb42ab3651533626161d6b67a2921917d8d429791f76972b3480"
+      sha256: "0a989dc7ca2bb51eac91e8fd00851297cfffd641aa7538b165c62637ca0eaa4a"
       url: "https://pub.dev"
     source: hosted
-    version: "5.3.0"
+    version: "5.4.0"
   win_ble:
     dependency: transitive
     description:
